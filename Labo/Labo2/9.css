@@ -1,0 +1,16 @@
+table
+{
+    border: 2px solid black;
+    border-collapse: collapse;
+
+    background-color: yellow;
+}
+
+td
+{
+    width: 30px;
+
+    border: 1px solid black;
+    
+    text-align: center;
+}
