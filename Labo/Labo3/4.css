@@ -1,1 +1,36 @@
-css
+h1
+{
+    text-align: center;
+}
+
+table
+{
+    width: 75%;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+td
+{
+    padding: 15px 10px;
+}
+
+.locatie
+{
+    text-align: right;
+}
+
+.green
+{
+    background-color: green;
+}
+
+.yellow
+{
+    background-color: yellow;
+}
+
+.red
+{
+    background-color: red;
+}
